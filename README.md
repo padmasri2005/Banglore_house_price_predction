@@ -1,6 +1,6 @@
 # Banglore_house_price_predction
 
-# Software and tools Requirement
+### Software and tools Requirement
 1) [GitHub](https://github.com)
 2) [StreamlitCloudAccount](https://streamlit.io/cloud)
 3) [VSCode](https://code.visualstudio.com/download)
@@ -19,4 +19,9 @@ venv\Scripts\activate
 Install libraries/dependencies
 ```
 pip install -r requirements.txt
+```
+
+Streamlit Run command
+```
+streamlit run file.py
 ```
